@@ -1,0 +1,58 @@
+#menu {
+    float:left;
+    height:450px;
+    padding:10px 10px;
+    width:400px;
+  }
+
+#contenido {
+    float:left;
+    height:100px;
+    padding:60px 15px;
+    width:280px;
+  }
+
+  
+  /*https://www.abrirllave.com/html/divisiones.php*/
+  /*https://es.stackoverflow.com/questions/175420/mover-div-a-la-derecha*/
+  
+
+/*animaciones*/
+  #container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+  }
+  #animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: red;
+  }
+/*Eventos*/
+  #eventos{
+    background-color:#D94A38;
+    width: 190px;
+    height: 50px;
+    padding : 40px 10px;
+  }
+
+
+  /*hr*/
+  hr {
+    height: 1px;
+    background-color: white;
+  }
+
+  /*seccion blanca*/
+  #testimonio {
+    background: #f1f1f1;
+    padding: 40px ;   /*Controlamos el espacio arriba y abajo*/
+    height: 760px;
+  }
+
+  .centrarh1
+  {
+    text-align: center;
+  }
